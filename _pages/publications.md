@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
  -->
 
-#**Academic Papers**
+<!-- #**Academic Papers** -->
 * A. Alipour-Fanid, M. Dabaghchian, N. Wang, **P. Wang**, L. Zhao, K. Zeng, "Machine Learning-Based Delay-Aware UAV Detection over Encrypted Wi-Fi Traffic
 ", to appear in IEEE CNS - International Workshop on Cyber-Physical Systems Security (CPS-SEC), Washington, D.C., USA, 2019 
 
