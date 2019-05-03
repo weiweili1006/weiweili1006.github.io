@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
  -->
 
-* **Academic Papers**
+#**Academic Papers**
 * A. Alipour-Fanid, M. Dabaghchian, N. Wang, **P. Wang**, L. Zhao, K. Zeng, "Machine Learning-Based Delay-Aware UAV Detection over Encrypted Wi-Fi Traffic
 ", to appear in IEEE CNS - International Workshop on Cyber-Physical Systems Security (CPS-SEC), Washington, D.C., USA, 2019 
 
@@ -29,5 +29,5 @@ author_profile: true
 * Z. Yan, **P. Wang**, and W. Feng. "A novel scheme of anonymous authentication on trust in Pervasive Social Networking." Information Sciences 445 (2018): 79-96.
 
 * **P. Wang**, and P. Zhang. "A review on trust evaluation for internet of things." Proceedings of the 9th EAI International Conference on Mobile Multimedia Communications. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), 2016.
-* 
+
 * Z, Yan, F. Wei , and **P. Wang**. "Anonymous authentication for trustworthy pervasive social networking." IEEE Transactions on Computational Social Systems 2.3 (2015): 88-98.
