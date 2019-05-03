@@ -11,10 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunication Engineering, Xidian University, 2010.09 - 2014.06
-* M.S. in Information Security, Xidian University, 2014.09 - 2016.12
-* Ph.D Candidate in Cyberspace Security, Xidian University, 2017.03 - 
-* Visiting Student in the Department of Electrical and Computer Engineering, George Mason University, 2017.11 - 2019.11
+
+* George Mason University, Fairfax, VA, USA, 2017.11 - 2019.11
+Visiting Student in the Department of Electrical and Computer Engineering 
+
+* Xidian University, Xi'an, China, 2017.03 - 
+  Ph.D Candidate in Cyberspace Security
+
+* Xidian University, Xi'an, China, 2014.09 - 2017.01
+  M.S. in Information Security
+
+* Xidian University, Xi'an, China, 2010.09 - 2014.06
+  B.S. in Telecommunication Engineering
+
+
+
 
 <!-- Work experience
 ======
