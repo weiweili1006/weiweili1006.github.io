@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Telecommunication Engineering, Xidian University, 2010.09 - 2014.06
+* M.S. in Information Security, Xidian University, 2014.09 - 2016.12
+* Ph.D Candidate in Cyberspace Security, Xidian University, 2017.03 - 
+* Visiting Student in the Department of Electrical and Computer Engineering, George Mason University, 2017.11 - 2019.11
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
