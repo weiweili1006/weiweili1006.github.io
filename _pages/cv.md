@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
 * George Mason University, Fairfax, VA, USA, 2017.11 - 2019.11, Visiting Student in the Department of Electrical and Computer Engineering 
 
 * Xidian University, Xi'an, China, 2017.03 -, Ph.D Candidate in Cyberspace Security
