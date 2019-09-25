@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pu Wang"
-description              : &description "Ph.D Candidate"
-url                      : "https://wangpu03.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Weiwei Li"
+description              : &Assistant Professor"
+url                      : "weiweili1006/weiweili1006.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangpu03/wangpu03.github.io"
+repository               : "weiweili1006/weiweili1006.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
