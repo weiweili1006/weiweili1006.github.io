@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pu Wang (in Chinese: 王普), currently a Ph.D candidate in School of Cyber Engineering at Xidian University in China, advised by Prof. Yan. 
+My name is Weiwei Li, currently a assistant profsser in Hebei University of Engineering. 
 
-I am now a visting Ph.D. student in Wireless Innovation and Cybersecurity Lab (WICL) in George Mason University, advised by Prof. Zeng. 
+I am now a visting scholar in Wireless Innovation and Cybersecurity Lab (WICL) in George Mason University, advised by Prof. Zeng. 
 
 My research interest mainly focuses on physilay layer security in backscatter communication and wireless information and power transfer, 5G wireless security and network security.
 
