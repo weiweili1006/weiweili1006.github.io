@@ -86,8 +86,8 @@ author:
   location         : "Handan, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jmoK1GsAAAAJ&hl=en"
-  email            : "wangpu03@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=jmoK1GsAAAAJ&hl=en"
+  email            : #"wangpu03@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangpu03"
+  github           : #"wangpu03"
   google_plus      :
   keybase          :
   instagram        :
