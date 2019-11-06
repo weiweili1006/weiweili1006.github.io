@@ -12,7 +12,7 @@ My name is Weiwei Li, currently a assistant profsser in Hebei University of Engi
 
 I am now a visting scholar in Wireless Innovation and Cybersecurity Lab (WICL) in George Mason University, advised by Prof. Zeng. 
 
-My research interest mainly focuses on physilay layer security in backscatter communication and wireless information and power transfer, 5G wireless security and network security.
+My research interest mainly focuses on Compressed sensing, physilay layer security, 5G wireless security and network security.
 
 >**Hello, World!!!**
  
